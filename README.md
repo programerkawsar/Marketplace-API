@@ -4,8 +4,7 @@ Postman API demo of this project is given. If you want to know more about this p
 The main reason for doing this project is to give an idea about my work and experience.
 
 ##### Postman Demo:
-
-https://go.postman.co/workspace/My-Workspace~6e9df676-3f15-4687-82fd-5eb0a2000568/collection/17057168-c95d09ea-3c76-462f-a8b0-ae35fbd041d0
+https://documenter.getpostman.com/view/17057168/Uyxoi4WE
 
 ### It's completely depend on node js
 
